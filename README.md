@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Khilav Patel </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/nasiullha-chaudhari/" target="_blank" rel="noreferrer">Khilav</a> is a passionate DevOps Engineer from India, working on Backend and Cloud . Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/khilav-patel-7785b5220/" target="_blank" rel="noreferrer">Khilav</a> is a passionate Software Engineer from India, working on Backend and Cloud . Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 
